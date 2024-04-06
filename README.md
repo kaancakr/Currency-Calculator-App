@@ -1,7 +1,7 @@
 
 # React Native Currency Converter
 
-![screenshot](https://github.com/kaancakr/Currency-Calculator-App/assets/102954021/68b8ca4e-41b7-4b9a-8cca-b2e62752d489){width=400px height=300px}
+![screenshot](https://github.com/kaancakr/Currency-Calculator-App/assets/102954021/68b8ca4e-41b7-4b9a-8cca-b2e62752d489)
 
 This is a simple currency converter application developed using React Native. This application provides a platform for users to convercing their currencies with efficient solution.
 
